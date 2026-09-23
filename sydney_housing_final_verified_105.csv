@@ -1,0 +1,106 @@
+suburb,address,sale_price,bedrooms,bathrooms,parking,property_type,listed_area_m2,sale_date,source_url,source_name,property_type_ml
+Blacktown,25/8-10 Fourth Avenue,415000,2,1,1,Unit,109,16-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,7 Highlands Crescent,1135000,3,2,4,House,765,15-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,81 Reservoir Road,1105000,4,2,2,House,,15-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,17 St Pauls Way,828000,3,2,1,Townhouse,,15-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Townhouse
+Blacktown,4 & 4A Joseph Street,1340000,5,2,1,House,713,14-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,3/28 Frederick Street,732500,2,1,1,Townhouse,,14-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Townhouse
+Blacktown,3/130 Newton Road,700000,2,1,1,Townhouse,98,14-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Townhouse
+Blacktown,42 Burke Street,1260000,5,3,6,House,,11-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,2/15 Balmoral Street,650000,2,1,1,Townhouse,,10-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Townhouse
+Blacktown,20/5-9 Fourth Avenue,441000,2,1,1,Apartment,,10-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,36/2-4 Fourth Avenue,415000,2,1,1,Unit,103,10-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,13/8-18 Wallace Street,463000,2,2,1,Apartment,,09-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,52 Balmoral Street,1300000,4,1,1,House,696.77,08-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,72/25 Mantaka Street,415000,2,1,1,Unit,63,07-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,5/28-30 Fourth Avenue,460000,2,1,1,Apartment,,04-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,9 Kirkman Road,1070000,4,1,2,House,638,03-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,11/130 Main Street,375000,1,1,1,Apartment,,02-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,17 Carinya Street,1600000,3,1,1,House,1182.4,01-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,1103/5 Second Avenue,420000,2,2,1,Apartment,,01-09-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,38-38A Burrell Parade,1480000,5,3,4,House,563,28-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,2002/1 Boys Avenue,540000,2,2,1,Apartment,,28-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,21/25-27 Fourth Avenue,456000,2,1,1,Apartment,,28-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,39 Burke Street,1500000,5,3,2,House,,26-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,19 Stephen Street,1062500,3,1,1,House,575.4,26-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,House
+Blacktown,73/31 Third Avenue,452000,2,2,1,Apartment,,26-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-1,realestate.com.au,Apartment
+Blacktown,7/45 Lyton Street,805000,2,2,1,Townhouse,,25-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,Townhouse
+Blacktown,4/3-5 Boyd Street,459000,2,1,1,Unit,,25-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,Apartment
+Blacktown,130 Bungarribee Road,1150000,3,1,1,House,670,24-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,House
+Blacktown,36 Bedford Road,1007500,3,2,4,House,651,24-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,House
+Blacktown,6 Fringe Glade,790000,2,2,1,Townhouse,126,24-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,Townhouse
+Blacktown,903/5 Second Avenue,600000,3,2,2,Apartment,,24-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,Apartment
+Blacktown,13 Lancaster Street,1900000,7,4,6,House,739.8,22-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,House
+Blacktown,17/3-5 Bruce Street,481000,2,2,1,Unit,,21-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,Apartment
+Blacktown,79/21-29 Third Avenue,435000,2,2,1,Unit,122,21-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,Apartment
+Blacktown,6 Garden Street,1235000,4,2,6,House,556,20-08-2026,https://www.realestate.com.au/sold/in-blacktown%2B%2C%2Bnsw%2B2148/list-2,realestate.com.au,House
+Parramatta,4/44-50 Thomas Street,720000,2,1,1,Townhouse,128,16-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Townhouse
+Parramatta,2315/45 Macquarie Street,640000,2,2,1,Apartment,97,16-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,641/180 George Street,600000,2,1,,Apartment,,16-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,1/3 Stewart Street,570000,2,1,1,Unit,,16-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,610/36-46 Cowper Street,575000,2,2,1,Apartment,113,14-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,2/16 Betts Street,660000,2,1,1,Apartment,,12-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,820K/2 Morton Street,650000,2,2,1,Apartment,,11-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,33/68 Great Western Highway,520000,2,1,1,Apartment,116,11-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,15/12 Early Street,493000,2,1,1,Unit,92,11-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,505/23 Hassall Street,660000,2,2,1,Apartment,122,09-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,1702/45 Macquarie Street,705000,2,2,1,Apartment,,04-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,89/459-463 Church Street,580000,2,2,1,Apartment,136,04-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,8/64-66 Great Western Highway,425000,1,1,1,Apartment,,04-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,10/4 Peace Lane,570000,2,2,1,Apartment,,03-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,1/18 Early Street,546000,2,1,1,Unit,123,01-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,9/178 George Street,490000,1,1,,Apartment,93,01-09-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,17/10-12 Thomas Street,650000,2,1,1,Unit,,31-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,3/23 Good Street,569000,2,1,1,Unit,104,31-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,401/6 River Road West,540000,2,2,1,Apartment,,30-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,5/30-32 Queens Avenue,680000,2,1,1,Apartment,,28-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,11/32 Hassall Street,590000,2,2,1,Apartment,,28-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,C26/88-98 Marsden Street,552000,2,2,1,Unit,,27-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,15/1 Good Street,480000,2,1,1,Apartment,,27-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,907/6-10 Charles Street,720000,3,2,1,Apartment,189,25-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,D603/1 Broughton Street,680000,2,2,1,Apartment,,25-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-1,realestate.com.au,Apartment
+Parramatta,1417/32 Hunter Street (AKA 1417/45 Macquarie St),560000,1,1,1,Apartment,76,25-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,16L/15 Campbell Street,405000,1,1,1,Apartment,,25-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,805/21 Hassall Street,410000,1,1,,Apartment,,24-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,230/1 Valentine Avenue,200000,1,1,,Studio,,23-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Studio
+Parramatta,1502/88 Church Street,800000,2,2,1,Apartment,,21-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,41/3 Good Street,641000,2,2,1,Apartment,132,21-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,219/88 Church Street,600000,1,1,1,Apartment,72,21-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,401/8 River Road,550000,2,2,1,Apartment,,21-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,11/22-24 Tennyson Street,650000,2,2,1,Apartment,,17-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Parramatta,53/20 Victoria Road,640000,2,2,1,Apartment,122,13-08-2026,https://www.realestate.com.au/sold/in-parramatta%2C%2Bnsw%2B2150/list-2,realestate.com.au,Apartment
+Mosman,313/88 Vista Street,905000,2,1,,Apartment,,17-09-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,8/88 Avenue Road,730000,1,1,1,Apartment,,12-09-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,7/10 Muston Street,750000,1,1,,Apartment,,08-09-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,13/5 The Esplanade,1450000,1,1,,Apartment,,03-09-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,G05/15-25 Myahgah Road,4500000,2,2,2,Apartment,,31-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,3/17 Milner Street,790000,1,1,,Apartment,,21-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,111/116 Belmont Road,930000,1,1,1,Apartment,74,19-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,4/139-153 Middle Head Road,2600000,3,2,2,Apartment,,14-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,14/669 Military Road,1600000,2,1,1,Apartment,96,12-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,9/71 Avenue Road,700000,1,1,1,Apartment,,10-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,3/6 Brierley Street,975000,2,1,,Apartment,,04-08-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,11/23 Warringah Road,865000,1,1,1,Apartment,,31-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,5 Botanic Road,8700000,4,3,2,House,,22-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,House
+Mosman,8/6 Punch Street,700000,1,1,,Apartment,,20-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,4/3 Millett Road,1050000,2,1,1,Apartment,,16-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,7/154 Raglan Street,785000,1,1,1,Unit,,14-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,20/96 Ourimbah Road,1030000,2,1,1,Apartment,,07-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,4/125 Raglan Street,990000,2,1,,Apartment,,07-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,22/96 Ourimbah Road,1025000,2,1,1,Apartment,102.2,03-07-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,31/2B Brady Street,1925000,3,2,2,Apartment,,29-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,5B/699 Military Road,1450000,2,1,1,Apartment,101,17-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,2/184 Raglan Street,1237500,2,1,1,Apartment,,17-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,10/116 Belmont Road,2380000,3,2,2,Townhouse,192,10-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Townhouse
+Mosman,16/5 The Esplanade,1570000,1,1,1,Apartment,,06-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-1,realestate.com.au,Apartment
+Mosman,105 Holt Avenue,3550000,4,3,,House,,05-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,House
+Mosman,3/1A Oswald Street,1140000,2,1,,Apartment,,04-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,96 Glover Street,3390000,4,3,2,House,379,02-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,House
+Mosman,17/22 Mosman Street,827000,1,1,1,Apartment,,01-06-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,28 (Lot 27/9 Mandolong Road,800000,1,1,,Apartment,40,29-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,12/22 Warringah Road,1030000,1,1,1,Apartment,,26-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,32B/2 Brady Street,2000000,2,2,2,Apartment,154,19-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,7/8 Earl Street,3000000,3,2,2,Apartment,156,15-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,27/102 Spit Road,765000,1,1,1,Apartment,,15-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,2/7 Badham Avenue,1265000,2,1,,Apartment,67,13-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
+Mosman,13/68 Bradleys Head Road,750000,1,1,1,Apartment,,13-05-2026,https://www.realestate.com.au/sold/in-mosman%2C%2Bnsw%2B2088/list-2,realestate.com.au,Apartment
